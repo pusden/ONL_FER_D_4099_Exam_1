@@ -1,7 +1,4 @@
-
-// aby šel tento příklad vyřešit,
-// musíš si do HTML doplnit nějaké další prvky
-
+@charset "UTF-8";
 .nav {
   background: #d3e6d2;
 }
@@ -70,4 +67,4 @@
 .aside {
   width: 20vw;
   background: #f7f5d8;
-}
+}/*# sourceMappingURL=main.css.map */

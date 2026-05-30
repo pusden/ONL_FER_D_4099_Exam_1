@@ -1,0 +1,19 @@
+.dialog {
+  width: 800px;
+  padding: 10px;
+  background-color: green;
+  border: 1px solid black;
+  margin: 40px auto;
+  position: relative;
+}
+.dialog::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  background-color: green;
+  border: 1px solid black;
+  position: absolute;
+  top: -6px;
+  left: 50%;
+  transform: translateX(-50%) rotate(45deg);
+}/*# sourceMappingURL=main.css.map */
